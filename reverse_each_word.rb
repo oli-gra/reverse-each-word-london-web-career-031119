@@ -4,4 +4,3 @@ def reverse_each_word(to_reverse)
   end
   reversed.join(" ")
 end
-  
